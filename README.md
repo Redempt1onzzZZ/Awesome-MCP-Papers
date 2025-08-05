@@ -1,7 +1,7 @@
 # Awesome-MCP-Papers
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/Redempt1onzzZZ/Awesome-MCP-Papers) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Redempt1onzzZZ/Awesome-MCP-Papers/blob/main/LICENSE)
-![](https://img.shields.io/github/last-commit/zjukg/KG-LLM-Papers?color=green) 
+![](https://img.shields.io/github/last-commit/Redempt1onzzZZ/Awesome-MCP-Papers?color=green) 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 This repository collects papers integrating **model context protocol (MCP)**.
