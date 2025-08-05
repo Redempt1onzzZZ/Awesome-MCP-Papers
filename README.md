@@ -40,4 +40,11 @@ Welcome to recommend missing papers through **`Pull Requests`**.
 - \[[arxiv](https://arxiv.org/abs/2504.03767)\] MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits `2025.04`
 ### Datasets
 
+## Contribution
+### Contributors
+### Contributing
+- Add a new paper or update an existing MCP-related paper.
+- Use the same format as existing entries to describe the work.
+- A very brief explanation why you think a paper should be added or updated is recommended (Not Neccessary) via **`Adding Issues`** or **`Pull Requests`**.
 
+**Don't worry if you put something wrong, they will be fixed for you. Just feel free to contribute and promote your awesome work here!**
