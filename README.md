@@ -13,13 +13,15 @@ Welcome to recommend missing papers through **`Pull Requests`**.
 - [Papers](#papers)
   - [Surveys](#surveys)
   - [Methods](#methods)
-  - [Datasets/Benchmark](#datasets/benchmark)
+  - [Datasets and Benchmark](#datasets)
 
 ---
 
 ##  Papers
 
 ### Surveys and Measurements
+<div id="surveys"></div>
+
 - \[[arxiv](https://arxiv.org/abs/2507.06250)\] We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems `2025.07`
 - \[[arxiv](https://arxiv.org/abs/2506.13538)\] Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers `2025.06`
 - \[[arxiv](https://arxiv.org/abs/2506.02040)\] Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem `2025.05`
@@ -29,6 +31,8 @@ Welcome to recommend missing papers through **`Pull Requests`**.
 - \[[techrxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174495492.22752319)\] A survey on model context protocol: Architecture, state-of-the-art, challenges and future directions `2025.04`
 - \[[arxiv](https://arxiv.org/abs/2503.23278)\] Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions `2025.03`
 ### Methods
+<div id="methods"></div>
+
 - \[[arxiv](https://arxiv.org/abs/2507.21105)\] AgentMaster: A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis `2025.07`
 - \[[arxiv](https://arxiv.org/abs/2506.13666)\] We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems `2025.06`
 - \[[arxiv](https://arxiv.org/abs/2505.14590)\] MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol `2025.05`
@@ -39,6 +43,8 @@ Welcome to recommend missing papers through **`Pull Requests`**.
 - \[[arxiv](https://arxiv.org/abs/2504.08999)\] MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers `2025.04`
 - \[[arxiv](https://arxiv.org/abs/2504.03767)\] MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits `2025.04`
 ### Datasets/Benchmark
+<div id="datasets"></div>
+
 | Title    | Paper | Artifact | Date |
 |----------|-----------|----------|----------|
 | MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers  | [arXiv:2508.14704](https://arxiv.org/abs/2508.14704) |[MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) ![](https://img.shields.io/github/stars/SalesforceAIResearch/MCP-Universe.svg?style=social) | 2025.08 |
