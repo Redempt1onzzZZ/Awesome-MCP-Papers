@@ -22,32 +22,40 @@ Welcome to recommend missing papers through **`Pull Requests`**.
 ### Surveys and Measurements
 <div id="surveys"></div>
 
-- \[[arxiv](https://arxiv.org/abs/2507.06250)\] We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems `2025.07`
-- \[[arxiv](https://arxiv.org/abs/2506.13538)\] Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers `2025.06`
-- \[[arxiv](https://arxiv.org/abs/2506.02040)\] Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem `2025.05`
-- \[[arxiv](https://arxiv.org/abs/2505.03864)\] From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems `2025.05`
-- \[[arxiv](https://arxiv.org/abs/2505.02279)\] A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP) `2025.05`
-- \[[arxiv](https://arxiv.org/abs/2504.08623)\] Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies `2025.04`
-- \[[techrxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174495492.22752319)\] A survey on model context protocol: Architecture, state-of-the-art, challenges and future directions `2025.04`
-- \[[arxiv](https://arxiv.org/abs/2503.23278)\] Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions `2025.03`
+|Title|Paper|Artifact|Date|
+|:---:|:---:|:---:|:---:|
+| We Urgently Need Privilege Management in MCP: A Measurement of API Usage in MCP Ecosystems  | [arXiv](https://arxiv.org/abs/2507.06250) | ⚠️ | 2025.07 |
+| Model Context Protocol (MCP) at First Glance: Studying the Security and Maintainability of MCP Servers  | [arXiv](https://arxiv.org/abs/2506.13538) | ⚠️ | 2025.06 |
+| Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem  | [arXiv](https://arxiv.org/abs/2506.02040) | [MCP-Artifact](https://github.com/MCP-Security/MCP-Artifact) ![](https://img.shields.io/github/stars/MCP-Security/MCP-Artifact.svg?style=social)| 2025.05 |
+| From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems | [arXiv](https://arxiv.org/abs/2505.03864) | ⚠️ | 2025.05 |
+| A survey of agent interoperability protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP) | [arXiv](https://arxiv.org/abs/2505.02279) | ⚠️ | 2025.05 |
+| Enterprise-Grade Security for the Model Context Protocol (MCP): Frameworks and Mitigation Strategies | [arXiv](https://arxiv.org/abs/2504.08623) | ⚠️ | 2025.04 |
+| A survey on model context protocol: Architecture, state-of-the-art, challenges and future directions | [TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174495492.22752319) | ⚠️ | 2025.04 |
+| Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions | [arXiv](https://arxiv.org/abs/2503.23278) | ⚠️ | 2025.03 |
+
+
 ### Methods
 <div id="methods"></div>
 
-- \[[arxiv](https://arxiv.org/abs/2507.21105)\] AgentMaster: A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis `2025.07`
-- \[[arxiv](https://arxiv.org/abs/2506.13666)\] We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems `2025.06`
-- \[[arxiv](https://arxiv.org/abs/2505.14590)\] MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol `2025.05`
-- \[[arxiv](https://arxiv.org/abs/2505.03275)\] RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation `2025.05`
-- \[[arxiv](https://arxiv.org/abs/2505.18829)\] LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS `2025.05`
-- \[[arxiv](https://arxiv.org/abs/2505.23634)\] MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment `2025.05`
-- \[[arxiv](https://arxiv.org/abs/2504.12757)\] MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System `2025.05`
-- \[[arxiv](https://arxiv.org/abs/2504.08999)\] MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers `2025.04`
-- \[[arxiv](https://arxiv.org/abs/2504.03767)\] MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits `2025.04`
+|Title|Paper|Artifact|Date|
+|:---:|:---:|:---:|:---:|
+| AgentMaster: A Multi-Agent Conversational Framework Using A2A and MCP Protocols for Multimodal Information Retrieval and Analysis | [arXiv](https://arxiv.org/abs/2507.21105) | ⚠️ | 2025.07 |
+| We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems | [arXiv](https://arxiv.org/abs/2506.13666) | [SafeMCP](https://github.com/littlelittlenine/SafeMCP) ![](https://img.shields.io/github/stars/littlelittlenine/SafeMCP.svg?style=social) | 2025.06 |
+| MCIP: Protecting MCP Safety via Model Contextual Integrity Protocol | [arXiv](https://arxiv.org/abs/2505.14590) | [MCIP](https://github.com/HKUST-KnowComp/MCIP) ![](https://img.shields.io/github/stars/HKUST-KnowComp/MCIP.svg?style=social) | 2025.05 |
+| RAG-MCP: Mitigating Prompt Bloat in LLM Tool Selection via Retrieval-Augmented Generation | [arXiv](https://arxiv.org/abs/2505.03275) | ⚠️ | 2025.05 |
+| LiteCUA: Computer as MCP Server for Computer-Use Agent on AIOS | [arXiv](https://arxiv.org/abs/2505.18829) | [LiteCUA](https://github.com/agiresearch/LiteCUA) ![](https://img.shields.io/github/stars/agiresearch/LiteCUA.svg?style=social) | 2025.05 |
+| MCP Safety Training: Learning to Refuse Falsely Benign MCP Exploits using Improved Preference Alignment | [arXiv](https://arxiv.org/abs/2505.23634) | ⚠️ | 2025.05 |
+| MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System | [arXiv](https://arxiv.org/abs/2504.12757) | ⚠️ | 2025.05 |
+| MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers | [arXiv](https://arxiv.org/abs/2504.08999) | [mcp-bridge-api](https://github.com/INQUIRELAB/mcp-bridge-api) ![](https://img.shields.io/github/stars/INQUIRELAB/mcp-bridge-api.svg?style=social) | 2025.04 |
+| MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits | [arXiv](https://arxiv.org/abs/2504.03767) | [mcpSafetyScanner](https://github.com/johnhalloran321/mcpSafetyScanner) ![](https://img.shields.io/github/stars/johnhalloran321/mcpSafetyScanner.svg?style=social) | 2025.04 |
+
+
 ### Datasets and Benchmark
 <div id="datasets"></div>
 
-| Title    | Paper | Artifact | Date |
-|----------|-----------|----------|----------|
-| MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers  | [arXiv:2508.14704](https://arxiv.org/abs/2508.14704) |[MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) ![](https://img.shields.io/github/stars/SalesforceAIResearch/MCP-Universe.svg?style=social) | 2025.08 |
+|Title|Paper|Artifact|Date|
+|:---:|:---:|:---:|:---:|
+| MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers  | [arXiv](https://arxiv.org/abs/2508.14704) |[MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) ![](https://img.shields.io/github/stars/SalesforceAIResearch/MCP-Universe.svg?style=social) | 2025.08 |
 
 ## Contribution
 ### Contributors
