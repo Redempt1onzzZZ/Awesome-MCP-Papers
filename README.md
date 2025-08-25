@@ -13,7 +13,7 @@ Welcome to recommend missing papers through **`Pull Requests`**.
 - [Papers](#papers)
   - [Surveys](#surveys)
   - [Methods](#methods)
-  - [Datasets](#datasets)
+  - [Datasets/Benchmark](#datasets/benchmark)
 
 ---
 
@@ -38,7 +38,10 @@ Welcome to recommend missing papers through **`Pull Requests`**.
 - \[[arxiv](https://arxiv.org/abs/2504.12757)\] MCP Guardian: A Security-First Layer for Safeguarding MCP-Based AI System `2025.05`
 - \[[arxiv](https://arxiv.org/abs/2504.08999)\] MCP Bridge: A Lightweight, LLM-Agnostic RESTful Proxy for Model Context Protocol Servers `2025.04`
 - \[[arxiv](https://arxiv.org/abs/2504.03767)\] MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits `2025.04`
-### Datasets
+### Datasets/Benchmark
+| Title    | Paper | Artifact | Date |
+|----------|-----------|----------|----------|
+| MCP-Universe: Benchmarking Large Language Models with Real-World Model Context Protocol Servers  | [arXiv:2508.14704](https://arxiv.org/abs/2508.14704) |[MCP-Universe](https://github.com/SalesforceAIResearch/MCP-Universe) ![](https://img.shields.io/github/stars/SalesforceAIResearch/MCP-Universe.svg?style=social) | 2025.08 |
 
 ## Contribution
 ### Contributors
