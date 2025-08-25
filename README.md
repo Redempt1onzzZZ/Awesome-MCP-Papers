@@ -51,6 +51,10 @@ Welcome to recommend missing papers through **`Pull Requests`**.
 
 ## Contribution
 ### Contributors
+<a href="https://github.com/Redempt1onzzZZ/Awesome-MCP-Papers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Redempt1onzzZZ/Awesome-MCP-Papers" />
+</a>
+
 ### Contributing
 - Add a new paper or update an existing MCP-related paper.
 - Use the same format as existing entries to describe the work.
